@@ -7,7 +7,7 @@
 ## 🖼 Preview
 
 <p align="center">
-  <img src="https://github.com/SZtch/lisk-challenge-week2/blob/main/preview.png" width="600" alt="App Preview" />
+  <img src="https://github.com/SZtch/lisk-challenge-week2/blob/main/Preview.png" width="600" alt="App Preview" />
 </p>
 ---
 
