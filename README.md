@@ -4,7 +4,11 @@
 > A decentralized dApp built for the **LiskSEA Speedrun Week 2**, focusing on deploying, verifying, and exploring smart contracts on **Lisk Sepolia** using the Scaffold-ETH 2 stack.
 
 🔗 **Live App:** [https://lisk-challenge-week2.vercel.app](https://lisk-challenge-week2.vercel.app)
+## 🖼 Preview
 
+<p align="center">
+  <img src="https://github.com/SZtch/lisk-challenge-week2/blob/main/preview.png" width="600" alt="App Preview" />
+</p>
 ---
 
 ## 🧱 Overview
